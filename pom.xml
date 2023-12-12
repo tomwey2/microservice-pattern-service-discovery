@@ -10,8 +10,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-cloud-config-server</module>
-        <module>microservice</module>
+        <module>microservice-a</module>
         <module>spring-cloud-eureka-server</module>
+        <module>microservice-b</module>
     </modules>
 
     <properties>
